@@ -1,6 +1,6 @@
 <template>
   <footer  class="myhome">
-    <div class="row mb-3 pl-2 ahmed">
+    <div class="row mb-3 pl-2 ahmedaaaaaaaa">
         <div class="col-md-5 footer-col-1">
             <a href="" class="footer-logo">{{$t("message.logo") }}</a>
             <div class="footer-info">
